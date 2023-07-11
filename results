@@ -1,1 +1,9 @@
 # results
+
+YOLO is a fast object detection algorithm that can process images in real-time at 45 FPS.
+YOLO has a lower false positive rate than Fast R-CNN, but it has more localization errors.
+YOLO struggles with small objects because each cell grid is allowed to classify one object only.
+YOLO V4 is the most accurate object detection algorithm, with an accuracy of 55.8%.
+The Object Detection module of the project was successfully achieved.
+The project fulfils the basic concepts of object detection and speech recognition.
+A user friendly interface was developed on the Android app.
